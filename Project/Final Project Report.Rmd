@@ -17,7 +17,7 @@ For more information about the several MOOCs comprised in this Specialization, p
 The scripts have been solely produced, tested and executed on Windows 10 Pro and RStudio Version 0.99.486.  
 Developer: <b>Srushti Bhosale</b>  
 
-GitHub Repo: (https://github.com/srushti-bhosale/coursera-ml-project)
+GitHub Repo: (https://github.com/srushti-bhosale/coursera-ml-project/tree/main/Project)
 
 
 ## Background  
