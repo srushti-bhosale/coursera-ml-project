@@ -5,7 +5,7 @@ These is a file produced during a homework assignment of Coursera's MOOC <b>Prac
 For more information about the several MOOCs comprised in this Specialization, please visit: [<https://www.coursera.org/specialization/jhudatascience/>](https://www.coursera.org/specialization/jhudatascience/)  
 The scripts have been solely produced, tested and executed on Windows 10 Pro and RStudio Version 0.99.486.  
 Developer: <b>Srushti Bhosale</b>  
-GitHub Repo: 
+GitHub Repo: (https://github.com/srushti-bhosale/coursera-ml-project/tree/main/Project)
 
 Background
 ----------
